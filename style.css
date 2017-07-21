@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styles */
+
+.container {
+    display: block;
+    width: 970px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
